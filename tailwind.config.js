@@ -5,7 +5,7 @@ module.exports = {
     extend: { fontFamily: { "open-sans": "'Open Sans'" } },
     colors: {
       white: "#fff",
-      teal: "#2bbbf0",
+      brown: "#9b1010",
       gray: {
         "100": "#6b7b8c",
         "200": "#5b5b5b",
